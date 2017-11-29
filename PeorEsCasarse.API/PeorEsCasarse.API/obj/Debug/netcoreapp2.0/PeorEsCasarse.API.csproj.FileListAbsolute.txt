@@ -1,0 +1,11 @@
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\bin\Debug\netcoreapp2.0\PeorEsCasarse.API.deps.json
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\bin\Debug\netcoreapp2.0\PeorEsCasarse.API.runtimeconfig.json
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\bin\Debug\netcoreapp2.0\PeorEsCasarse.API.runtimeconfig.dev.json
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\bin\Debug\netcoreapp2.0\PeorEsCasarse.API.dll
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\obj\Debug\netcoreapp2.0\PeorEsCasarse.API.csprojResolveAssemblyReference.cache
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\obj\Debug\netcoreapp2.0\PeorEsCasarse.API.csproj.CoreCompileInputs.cache
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\obj\Debug\netcoreapp2.0\PeorEsCasarse.API.AssemblyInfoInputs.cache
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\obj\Debug\netcoreapp2.0\PeorEsCasarse.API.AssemblyInfo.cs
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\bin\Debug\netcoreapp2.0\PeorEsCasarse.API.pdb
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\obj\Debug\netcoreapp2.0\PeorEsCasarse.API.dll
+C:\Users\dmartinez\source\repos\PeorEsCasarse.API\PeorEsCasarse.API\obj\Debug\netcoreapp2.0\PeorEsCasarse.API.pdb
